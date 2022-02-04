@@ -41,7 +41,7 @@ Here is a screenshot from the desktop tool listing the free
 version limitations for EAGLE:
 
 ![UltraLibrarian desktop free version limits for
-EAGLE](doc/img/UltraLibrarian-free_version_limitations_for_EAGLE.PNG)
+EAGLE](img/UltraLibrarian-free_version_limitations_for_EAGLE.PNG)
 
 *As an aside, there is no motivation to use the desktop version.
 It's a 2GB install (why?) and it doesn't do anything
@@ -119,7 +119,7 @@ UltraLibrarian offers a web service that generates EAGLE lbr
 scripts for just about any part.
 
 ![UltraLibrarian web version
-screenshot](doc/img/UltraLibrarian-web_version.PNG)
+screenshot](img/UltraLibrarian-web_version.PNG)
 
 The example above is for `LT3063`. This is an example of a
 low-quality `lbr`. Even worse it has mistakes.
